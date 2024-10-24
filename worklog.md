@@ -7,3 +7,6 @@ contemplated complexities, deferred implementation; sometimes thinking is doing.
 ## 2024-10-24T23:45:48
 mental load testing, servers unchallenged; capacity planning in theory.
 
+## 2024-10-24T20:15:47
+considered containerization, docker-free day; isolation in thought only.
+
