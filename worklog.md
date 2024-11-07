@@ -124,3 +124,6 @@ algorithm efficiency considered, implementation efficiency deferred; big O think
 ## 2024-11-07T13:57:06
 debated best practices, practice put on hold; principles before patterns.
 
+## 2024-11-07T17:37:03
+considered hot code reloading, restarts required; theoretical continuous operation.
+
