@@ -121,3 +121,6 @@ abstract data structures pondered, concrete ones unaltered; theoretical modeling
 ## 2024-11-07T16:42:54
 algorithm efficiency considered, implementation efficiency deferred; big O thinking.
 
+## 2024-11-07T13:57:06
+debated best practices, practice put on hold; principles before patterns.
+
