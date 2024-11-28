@@ -280,3 +280,6 @@ considered containerization, docker-free day; isolation in thought only.
 ## 2024-11-27T10:03:26
 abstract classes contemplated, concrete classes unchanged; OOP in the mind.
 
+## 2024-11-28T14:31:50
+abstract classes contemplated, concrete classes unchanged; OOP in the mind.
+
