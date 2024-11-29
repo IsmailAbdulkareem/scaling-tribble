@@ -292,3 +292,6 @@ thought about code reviews, pull requests unopened; peer review visualization.
 ## 2024-11-29T09:24:03
 considered hot code reloading, restarts required; theoretical continuous operation.
 
+## 2024-11-29T16:43:44
+considered content delivery networks, origin servers busy; theoretical edge computing.
+
