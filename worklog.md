@@ -400,3 +400,6 @@ debated best practices, practice put on hold; principles before patterns.
 ## 2024-12-11T21:03:19
 explored the coding cosmos, keyboard gravity too strong; floating ideas.
 
+## 2024-12-11T21:24:49
+interface designs sketched mentally, APIs unchanged; UX of the mind.
+
