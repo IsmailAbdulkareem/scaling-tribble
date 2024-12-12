@@ -412,3 +412,6 @@ debated best practices, practice put on hold; principles before patterns.
 ## 2024-12-12T19:28:27
 rich in consideration, poor in commits; the developer's paradox.
 
+## 2024-12-12T18:56:27
+pondered homomorphic encryption, data in clear; theoretical secure computation.
+
