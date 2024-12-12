@@ -406,3 +406,6 @@ interface designs sketched mentally, APIs unchanged; UX of the mind.
 ## 2024-12-11T19:58:47
 deepened understanding, delayed execution; knowledge precedes implementation.
 
+## 2024-12-12T09:19:12
+debated best practices, practice put on hold; principles before patterns.
+
