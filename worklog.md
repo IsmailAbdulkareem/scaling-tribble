@@ -427,3 +427,6 @@ contemplated api versioning, endpoints stable; future-proofing interfaces mental
 ## 2024-12-13T14:42:40
 mental circuit breaking, services fully connected; theoretical fault isolation.
 
+## 2024-12-13T11:41:24
+algorithm efficiency considered, implementation efficiency deferred; big O thinking.
+
