@@ -493,3 +493,6 @@ mental canary releases, full rollouts standard; theoretical gradual deployment.
 ## 2024-12-21T10:28:12
 considered oauth flows, authentication unchanged; theoretical access control.
 
+## 2024-12-21T11:18:57
+explored containerization concepts, docker files unwritten; mental isolation practice.
+
