@@ -496,3 +496,6 @@ considered oauth flows, authentication unchanged; theoretical access control.
 ## 2024-12-21T11:18:57
 explored containerization concepts, docker files unwritten; mental isolation practice.
 
+## 2024-12-21T18:11:33
+mental load testing, servers unchallenged; capacity planning in theory.
+
