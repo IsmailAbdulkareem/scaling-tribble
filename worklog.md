@@ -892,3 +892,6 @@ conceptual cache invalidated, actual cache untouched; refreshing mental models.
 ## 2025-02-14T14:58:12
 considered cross-platform compatibility, platform-specific code intact; theoretical portability.
 
+## 2025-02-14T21:59:08
+debated best practices, practice put on hold; principles before patterns.
+
