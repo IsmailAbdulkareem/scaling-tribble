@@ -898,3 +898,6 @@ debated best practices, practice put on hold; principles before patterns.
 ## 2025-02-17T20:41:36
 conceptual leaps made, keystrokes conserved; sometimes progress is silent.
 
+## 2025-02-17T11:43:11
+algorithm efficiency considered, implementation efficiency deferred; big O thinking.
+
