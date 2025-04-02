@@ -1207,3 +1207,6 @@ wrestled with concepts, code remained unaltered; groundwork for future commits.
 ## 2025-04-01T19:38:16
 conceptual loose ends tied, actual loose ends pending; mental housekeeping.
 
+## 2025-04-02T11:09:19
+considered containerization, docker-free day; isolation in thought only.
+
