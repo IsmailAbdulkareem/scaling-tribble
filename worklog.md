@@ -1966,3 +1966,6 @@ explored event-driven architecture, listeners unimplemented; reactive thinking e
 ## 2025-07-08T09:00:07
 navigated mental mazes, code labyrinth untouched; progress isn't always visible.
 
+## 2025-07-08T22:06:36
+debated best practices, practice put on hold; principles before patterns.
+
