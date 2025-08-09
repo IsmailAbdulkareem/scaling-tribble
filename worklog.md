@@ -2218,3 +2218,6 @@ algorithm efficiency considered, implementation efficiency deferred; big O think
 ## 2025-08-08T16:44:21
 conceptual unit tests passed, actual tests unwritten; mental QA day.
 
+## 2025-08-09T17:47:37
+debated best practices, practice put on hold; principles before patterns.
+
