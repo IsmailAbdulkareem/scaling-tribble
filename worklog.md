@@ -2587,3 +2587,6 @@ mental refactoring day; codebase patiently awaits its turn.
 ## 2025-09-26T20:32:51
 explored design patterns, pattern implementation pending; architectural musings.
 
+## 2025-09-26T19:02:00
+debated best practices, practice put on hold; principles before patterns.
+
