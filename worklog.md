@@ -2692,3 +2692,6 @@ evaluated trade-offs, decisions pending; weighing options is progress too.
 ## 2025-10-14T10:17:15
 explored service mesh concepts, network calls direct; theoretical request routing.
 
+## 2025-10-14T14:17:23
+thought about scalability, current scale unmoved; future-proofing in mind.
+
