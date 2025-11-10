@@ -2878,3 +2878,6 @@ contemplated api versioning, endpoints stable; future-proofing interfaces mental
 ## 2025-11-10T22:51:56
 mental branches created, git branches unchanged; parallel universe planning.
 
+## 2025-11-10T21:58:18
+considered scalability issues, scaling postponed; thinking big while starting small.
+
