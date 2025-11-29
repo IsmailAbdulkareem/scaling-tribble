@@ -3031,3 +3031,6 @@ considered technical debt, repayment plans drafted; financial planning for code.
 ## 2025-11-29T10:04:49
 mental TODOs multiplied, actual TODOs stable; prioritizing the intangible.
 
+## 2025-11-29T19:16:02
+mental code signing, certificates unexpired; security in principle.
+
