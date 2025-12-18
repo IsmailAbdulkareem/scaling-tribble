@@ -3163,3 +3163,6 @@ mental canary releases, full rollouts standard; theoretical gradual deployment.
 ## 2025-12-18T13:35:53
 thought about cache invalidation, cache hits steady; conceptual performance tuning.
 
+## 2025-12-18T09:50:04
+considered containerization, docker-free day; isolation in thought only.
+
