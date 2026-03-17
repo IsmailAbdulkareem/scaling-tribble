@@ -3862,3 +3862,6 @@ abstract problem-solving, concrete solutions pending; cognitive algorithmic work
 ## 2026-03-17T17:55:17
 conceptual cache invalidated, actual cache untouched; refreshing mental models.
 
+## 2026-03-17T21:11:23
+debated best practices, practice put on hold; principles before patterns.
+
