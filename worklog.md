@@ -3865,3 +3865,6 @@ conceptual cache invalidated, actual cache untouched; refreshing mental models.
 ## 2026-03-17T21:11:23
 debated best practices, practice put on hold; principles before patterns.
 
+## 2026-03-18T20:04:05
+debated best practices, practice put on hold; principles before patterns.
+
