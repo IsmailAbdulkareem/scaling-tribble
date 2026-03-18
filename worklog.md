@@ -3871,3 +3871,6 @@ debated best practices, practice put on hold; principles before patterns.
 ## 2026-03-18T15:37:08
 pondered cqrs pattern, read/write models unified; architectural separation in mind.
 
+## 2026-03-18T21:13:42
+conceptual cache invalidated, actual cache untouched; refreshing mental models.
+
