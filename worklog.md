@@ -3886,3 +3886,6 @@ pondered serverless architecture, servers still humming; cloud-native contemplat
 ## 2026-03-20T13:02:51
 considered oauth flows, authentication unchanged; theoretical access control.
 
+## 2026-03-20T14:38:55
+debated best practices, practice put on hold; principles before patterns.
+
