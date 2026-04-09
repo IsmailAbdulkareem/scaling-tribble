@@ -4042,3 +4042,6 @@ mental api gateway design, direct service calls ongoing; theoretical request man
 ## 2026-04-09T13:44:59
 mental load increased, server load unchanged; cognitive heavy lifting.
 
+## 2026-04-09T23:36:28
+considered scalability issues, scaling postponed; thinking big while starting small.
+
