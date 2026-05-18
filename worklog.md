@@ -4321,3 +4321,6 @@ brainstorming session extended, coding session postponed; ideas need incubation.
 ## 2026-05-18T21:46:19
 considered hot code reloading, restarts required; theoretical continuous operation.
 
+## 2026-05-18T12:59:36
+debated best practices, practice put on hold; principles before patterns.
+
