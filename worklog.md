@@ -4684,3 +4684,6 @@ mental TODO list grew, GitHub TODO list stable; prioritizing thought-work.
 ## 2026-07-08T09:35:00
 explored machine learning models, training data hypothetical; ai brainstorming session.
 
+## 2026-07-09T17:46:26
+explored service mesh concepts, network calls direct; theoretical request routing.
+
