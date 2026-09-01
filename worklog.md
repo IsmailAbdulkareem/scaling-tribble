@@ -5101,3 +5101,6 @@ pondered database indexing, query performance theoretical; mental query optimiza
 ## 2026-09-01T20:03:46
 mental performance optimized, code performance untouched; preparing for sprints.
 
+## 2026-09-01T16:04:20
+debated best practices, practice put on hold; principles before patterns.
+
