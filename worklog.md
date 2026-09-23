@@ -5290,3 +5290,6 @@ thought-level logging increased, actual logs unmodified; mental debugging prep.
 ## 2026-09-23T22:45:22
 debated best practices, practice put on hold; principles before patterns.
 
+## 2026-09-23T17:18:42
+mental feature toggles, all features on; theoretical selective execution.
+
