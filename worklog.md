@@ -5287,3 +5287,6 @@ mental graphql schema design, rest apis undisturbed; theoretical data querying.
 ## 2026-09-23T11:50:28
 thought-level logging increased, actual logs unmodified; mental debugging prep.
 
+## 2026-09-23T22:45:22
+debated best practices, practice put on hold; principles before patterns.
+
